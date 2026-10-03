@@ -84,3 +84,4 @@ service-account*.json
 # Firebase project-specific configuration
 /android/app/google-services.json
 /lib/firebase_options.dart
+android/build/

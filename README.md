@@ -154,6 +154,41 @@ A longer observation period is proposed for comparing objective PRE and POST tra
 
 \---
 
+## 📊 System Diagrams
+
+The following diagrams represent the design, workflow, data relationships and interaction structure of the **Sulabh Pravas Sahayya Yojana** application.
+
+### 1. Use Case Diagram
+
+The Use Case Diagram represents the major interactions between students, administrators and the application.
+
+![Use Case Diagram](docs/diagrams/use-case-diagram.png)
+
+### 2. Activity Diagram
+
+The Activity Diagram illustrates the major workflow of the application, including student travel planning and journey-related activities.
+
+![Activity Diagram](docs/diagrams/activity-diagram.png)
+
+### 3. Sequence Diagram
+
+The Sequence Diagram represents the interaction between the user, Flutter application and backend services during important application processes.
+
+![Sequence Diagram](docs/diagrams/sequence-diagram.png)
+
+### 4. Class Diagram
+
+The Class Diagram represents the major application entities/classes and their relationships.
+
+![Class Diagram](docs/diagrams/class-diagram.png)
+
+### 5. ER Diagram
+
+The Entity-Relationship Diagram represents the major data entities and relationships used for application and research data management.
+
+![ER Diagram](docs/diagrams/er-diagram.png)
+
+On Sat, 3 Oct 2026 at 08:39, Abhishek Vaidya <abhishekvaidya2702@gmail.com> wrote:
 
 
 \## 👩‍🎓 Target Participants
