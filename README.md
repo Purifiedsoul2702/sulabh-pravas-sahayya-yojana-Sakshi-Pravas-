@@ -190,7 +190,56 @@ The Entity-Relationship Diagram represents the major data entities and relations
 
 On Sat, 3 Oct 2026 at 08:39, Abhishek Vaidya <abhishekvaidya2702@gmail.com> wrote:
 
+## 📱 Application Screenshots
 
+The following screenshots demonstrate the major student, travel-assistance, safety and research-administration features of the **Sulabh Pravas Sahayya Yojana** application.
+
+> **Note:** Screenshots are provided to demonstrate application functionality. Dashboard values shown in the interface represent the data available in the application at the time of capture and should not, by themselves, be interpreted as evidence of intervention effectiveness.
+
+### Onboarding & Authentication
+
+<p align="center">
+  <img src="docs/screenshots/01-language-selection.jpg" width="220" alt="Language Selection">
+  <img src="docs/screenshots/02-welcome-screen.jpg" width="220" alt="Welcome Screen">
+  <img src="docs/screenshots/03-create-account.jpg" width="220" alt="Create Account">
+</p>
+
+<p align="center">
+  <b>Language Selection</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Welcome Screen</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Create Account</b>
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/04-login-screen.jpg" width="220" alt="Login Screen">
+</p>
+
+### Student Travel Assistance
+
+<p align="center">
+  <img src="docs/screenshots/10-student-home.jpg" width="220" alt="Student Home">
+  <img src="docs/screenshots/11-student-services.jpg" width="220" alt="Quick Services">
+  <img src="docs/screenshots/12-student-activity.jpg" width="220" alt="Student Activity">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/13-bus-schedule.jpg" width="220" alt="Bus Schedule">
+  <img src="docs/screenshots/14-plan-my-trip.jpg" width="220" alt="Plan My Trip">
+  <img src="docs/screenshots/15-safety-help.jpg" width="220" alt="Safety Help">
+</p>
+
+### Researcher / Admin Dashboard
+
+<p align="center">
+  <img src="docs/screenshots/05-admin-dashboard.jpg" width="220" alt="Researcher Dashboard">
+  <img src="docs/screenshots/06-research-indicators.jpg" width="220" alt="Research Indicators">
+  <img src="docs/screenshots/07-pre-post-analysis.jpg" width="220" alt="PRE POST Analysis">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/08-research-data-management.jpg" width="220" alt="Research Data Management">
+  <img src="docs/screenshots/09-transport-management.jpg" width="220" alt="Transport Management">
+</p>
 \## 👩‍🎓 Target Participants
 
 
